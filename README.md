@@ -12,7 +12,6 @@ O sistema permitirá que os alunos da instituição sejam identificados por meio
 ## Autores
  ⭐Feito por:
 
-* [Bernardo Filipe](https://github.com/BernardoFOFG)
 * [Cecília Carol](https://github.com/CeciliaCarol)
 * [Isabela Alves](https://github.com/Isabela-Alves)
 * [Suelen Salvino](https://github.com/suelensalvino)
@@ -23,5 +22,5 @@ O sistema permitirá que os alunos da instituição sejam identificados por meio
 * CSS
 * JS
 * Svelte
-
+*HTML
 
