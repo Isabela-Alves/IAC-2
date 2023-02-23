@@ -22,5 +22,5 @@ O sistema permitirá que os alunos da instituição sejam identificados por meio
 * CSS
 * JS
 * Svelte
-*HTML
+* HTML
 
