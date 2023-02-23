@@ -1,5 +1,4 @@
-# IAC-2
-Parte dois do projeto de controle de acesso do aluno
+
 <h1 align="center">IAC-2 - IFPE Access Control</h1>
 
 ## Descrição do projeto
